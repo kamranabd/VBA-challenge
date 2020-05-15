@@ -11,4 +11,4 @@
 #       The second is "VBAhw2_challenge_1". the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
 #       The third is "VBAhw2_challenge_2_final". This allows it to run on every worksheet. This contains all the script from the previous 2 VBA files and is the final version of this assignment.
 
-# NOTE:I was unsure if I was required to add all of these VBA files, but the insturcitons stated to incukude "VBA Scripts as separate files" so I included them all seperately, however challenge_2 is the final version of this assignment.
+# NOTE:I was unsure if I was required to add all of these VBA files, but the insturcitons stated to inculude "VBA Scripts as separate files" so I included them all seperately, however challenge_2 is the final version of this assignment.
